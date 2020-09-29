@@ -54,5 +54,6 @@ By comparing RMSE and R^2 score results of models and then we choose the best mo
 ## Conclusion
 
 - Overall we can see that No of policies, Monthly Premium auto, Total Claim amount, Months Since Policy Inception, Income	, Months Since Last Claim, Number of Open Complaints, Coverage_Extended,vEmploymentStatus_Employed and Renew Offer Type_Offer2 are the important features in predicting the Customer Lifetime Value.
+- The customers having more number of policies with high monthly premium will add more value to company.
 - Ironically being an auto insurance company, the type of vehicle or size does not have an impact on the CLV prediction.
 - The insurance agents should start increasing their policy advertisement for the customers who have more no. of policies, which is the major feature in predicting the CLV.
